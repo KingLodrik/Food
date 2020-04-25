@@ -1,2 +1,7 @@
 # Food
-what food i like to eat
+
+mango
+
+pizza
+
+rice
