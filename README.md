@@ -6,4 +6,4 @@ pizza
 
 rice
 
-chiken:
+chiken
